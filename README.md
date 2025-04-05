@@ -51,7 +51,7 @@ To ensure analysis integrity:
 - The INC’s gains were a result of both internal performance improvements and regional ally support, rather than organic growth alone.
 
 
-**usiness Impact**
+**Business Impact**
 
 - **Helped the client quantify INC’s growth trajectory, grounded in solid metrics, not perception.**
 

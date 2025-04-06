@@ -44,7 +44,7 @@ To ensure analysis integrity:
 
 - The INC nearly doubled its seat tally in 2024 compared to 2019, indicating a strong recovery from its historic low.
 
-- Despite contesting fewer seats, INC's contested vote share increased by over 5 percentage points, showing better targeting and performance where it stood.
+- Despite contesting fewer seats, INC's contested vote share increased by near 10 percentage points, showing better targeting and performance where it stood.
 
 - Comparative IOU (Index of Opposition Unity) analysis revealed significantly higher opposition consolidation in many constituencies, reflecting a more strategic alliance approach.
 
